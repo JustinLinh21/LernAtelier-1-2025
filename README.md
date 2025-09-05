@@ -17,3 +17,10 @@
 1. Ich bin auf die Idee gekommen, ein Roblox game in Roblox Studio zu entwickeln und will Ideen sammeln
 2. Ich probiere Roblox Studio aus und will mehr wissen von dem
 3. Ich will ein Spiel entwickeln und weiterkommen
+
+# LernAtelier-1-2025
+## 4. Tag
+### Ziele
+1.Ich will bei den Modulen 431 und 319 ein paar Aufgaben aufarbeiten
+2.Ich will auf Youtube kurze Tutorials über C# anschauen und probieren, sie währenddessen anzuwenden
+3.Ich frage ChatGPT nach Aufgaben und Tipps über C#, die ich in Visual Studio umsetzen kann
