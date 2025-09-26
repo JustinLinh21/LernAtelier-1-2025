@@ -24,3 +24,17 @@
 1.Ich will bei den Modulen 431 und 319 ein paar Aufgaben aufarbeiten
 2.Ich will auf Youtube kurze Tutorials über C# anschauen und probieren, sie währenddessen anzuwenden
 3.Ich frage ChatGPT nach Aufgaben und Tipps über C#, die ich in Visual Studio umsetzen kann
+
+# LernAtelier-1-2025
+## 5. Tag
+### Ziele
+1. Ich mach weiter am Roblox Spiel
+2. Ich schaue mir die Module an
+3. Ich lerne für Französisch prüfung
+
+5. # LernAtelier-1-2025
+## 5. Tag
+### Ziele
+1. Lernziele für Geo Test repetieren
+2. 9.30-10.00 Pause
+3. Modul 431 aufholen
