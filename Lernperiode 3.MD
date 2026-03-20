@@ -12,3 +12,19 @@ ich bin durch 5 tutorial videos gekommen und habe die basics schon verstanden vo
 
 ## Ziele
 Auch mindestens 5 tutorial videos schauen und weiterkommen
+
+
+
+## Grob Planung
+
+20.03.2026
+
+## Projekt
+
+Etwa 5 tutorial videos schauen und java basics erstmal lernen, youtuber heisst modding by kaupenjoe
+
+evtl. auch moodles nachholen da ich bei 106 etwas hinterdrin bin
+
+## Reflexion
+
+
