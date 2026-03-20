@@ -28,3 +28,6 @@ evtl. auch moodles nachholen da ich bei 106 etwas hinterdrin bin
 ## Reflexion
 
 Ich habe bei dem Tutorial 6 videos geschaut weil es  so spannend war
+
+## feinplanung
+das gleiche wie diesmal
