@@ -31,3 +31,11 @@ Ich habe bei dem Tutorial 6 videos geschaut weil es  so spannend war
 
 ## feinplanung
 das gleiche wie diesmal
+
+## Grob Planung
+
+27.03.2026
+
+Ich tu heute bei Modul 187 weiterarbeiten und wenn ich weit genug bin für das lernen
+
+
