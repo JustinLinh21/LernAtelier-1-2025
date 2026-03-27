@@ -38,4 +38,9 @@ das gleiche wie diesmal
 
 Ich tu heute bei Modul 187 weiterarbeiten und wenn ich weit genug bin für das lernen
 
+## Reflexion Ich konnte bei Modul 187 und 106 weiterkommen und habe noch ein paar tutorials geschaut zu joins und software, hardware
+
+## Feinplanung
+
+mal schauen
 
