@@ -12,3 +12,19 @@ Heute habe ich SQL-Codes repetiert, wichtige SQL-Commands aufgeschrieben und Ler
 Feinplanung nächstes mal
 -Module aufarbeiten
 -mal schauen
+
+
+22.05.2026 Homeoffice
+
+-Modul 293 weiter arbeiten
+-Mit Khan academy Css und HTML lernen
+-Youtube Videos zu Komponenten schauen
+
+Reflexion
+
+Ich habe diese Woche im Modul 293 weitergearbeitet und gemerkt, dass ich langsam besser reinkomme.
+Mit Khan Academy habe ich HTML und CSS geübt, was mir geholfen hat, die Basics klarer zu verstehen.
+Die YouTube‑Videos zu Komponenten waren auch nützlich, weil ich dort vieles visuell nachvollziehen konnte.
+Insgesamt hatte ich das Gefühl, dass ich durch die Mischung aus Üben, Videos und Theorie gut vorankomme.
+
+
