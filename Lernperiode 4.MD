@@ -27,4 +27,11 @@ Mit Khan Academy habe ich HTML und CSS geübt, was mir geholfen hat, die Basics 
 Die YouTube‑Videos zu Komponenten waren auch nützlich, weil ich dort vieles visuell nachvollziehen konnte.
 Insgesamt hatte ich das Gefühl, dass ich durch die Mischung aus Üben, Videos und Theorie gut vorankomme.
 
+Feinplanung nächstes Mal
 
+Modul 293 weiter bearbeiten
+modul 293 und 122
+SQL-Theorie repetieren
+Komponenten besser verstehen und Beispiele anschauen
+Spannende Informatik Videos
+Französisch zahlen lernen
