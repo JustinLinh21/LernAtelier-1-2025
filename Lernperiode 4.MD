@@ -20,7 +20,7 @@ Heute habe ich SQL-Codes repetiert, wichtige SQL-Commands aufgeschrieben und Ler
 -Mit Khan academy Css und HTML lernen
 -Youtube Videos zu Komponenten schauen
 
-## Reflexion
+## Reflexion 22.05.2026
 
 Ich habe diese Woche im Modul 293 weitergearbeitet und gemerkt, dass ich langsam besser reinkomme.
 Mit Khan Academy habe ich HTML und CSS geübt, was mir geholfen hat, die Basics klarer zu verstehen.
@@ -36,7 +36,11 @@ Komponenten besser verstehen und Beispiele anschauen
 Spannende Informatik Videos
 Französisch zahlen lernen
 
+
+## Reflexion 29.05
 Heute habe ich weiter am Modul 293 gearbeitet und zusätzlich HTML und CSS geübt. Dabei konnte ich mein Verständnis für den Aufbau von Webseiten verbessern. Auch die Wiederholung der SQL-Theorie hat geholfen, wichtige Commands besser zu merken. Die  Tech Videos waren hilfreich und spannend, sie waren über Peripherien die hilfreich sind. Für Französisch hab ich mich ein wenig für das Hörverstehen vorbereitet. Insgesamt habe ich konzentriert gearbeitet und gute Fortschritte gemacht.
 
 ## Noten Informatik
 4.5 , 5 , 5.5
+
+## Feinplanung nächstes mal
