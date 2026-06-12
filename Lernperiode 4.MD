@@ -43,4 +43,10 @@ Heute habe ich weiter am Modul 293 gearbeitet und zusätzlich HTML und CSS geüb
 ## Noten Informatik
 4.5 , 5 , 5.5
 
-## Feinplanung nächstes mal
+## Feinplanung nächstes mal für 12.06.2026
+Für das Modul 293 und 122 bei den projekten arbeiten eventuell mit 293 mehr und eher fertig werden
+
+## Noten Informatik
+4.5 , 5 , 5.5 , 5.5
+
+
