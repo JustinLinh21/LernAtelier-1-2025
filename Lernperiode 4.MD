@@ -49,4 +49,8 @@ Für das Modul 293 und 122 bei den projekten arbeiten eventuell mit 293 mehr und
 ## Noten Informatik
 4.5 , 5 , 5.5 , 5.5
 
+## Reflexion
+Für die Projekte konnte ich bei beiden unterschiedlich anfangen ich habe mehr mit 122 gearbeitet da ich da noch hinterdrin war und konnte schon eine struktur für das Dokument und eine kleine Entwickler/Testdokumentation erstellen. Bei 293 habe ich nur das mockup für die website verbessert mit drawio.
 
+## Feinplanung nächstes mal
+Mit den projekten idealerweise fertig werden wenn sie nicht schon bei den anderen Tagen fertig ist oder einfach so weit kommen wie möglich da ich noch 2 wochen zeit habe.
