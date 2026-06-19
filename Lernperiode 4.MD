@@ -54,3 +54,9 @@ Für die Projekte konnte ich bei beiden unterschiedlich anfangen ich habe mehr m
 
 ## Feinplanung nächstes mal
 Mit den projekten idealerweise fertig werden wenn sie nicht schon bei den anderen Tagen fertig ist oder einfach so weit kommen wie möglich da ich noch 2 wochen zeit habe.
+
+## Feinplanung 19.06.2026
+
+Ich arbeite an meiner webseite weiter also das projekt LB für modul 293.
+
+Nach der Halbzeit arbeite ich auch an Modul 122 für mein LB weiter und schaue wie weit ich kommen.
