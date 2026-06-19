@@ -60,3 +60,6 @@ Mit den projekten idealerweise fertig werden wenn sie nicht schon bei den andere
 Ich arbeite an meiner webseite weiter also das projekt LB für modul 293.
 
 Nach der Halbzeit arbeite ich auch an Modul 122 für mein LB weiter und schaue wie weit ich kommen.
+
+## Reflexion 19.06.2026
+Ich bin weit gekommen, arbeite am wochenende weiter und bin nächsten Dienstag/Mittwoch fertig mit den projekten
