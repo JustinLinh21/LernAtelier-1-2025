@@ -100,11 +100,11 @@ Ich bin weit gekommen, arbeite am Wochenende weiter und bin Dienstag/Mittwoch mi
 ### Info
 Ich habe Copilot und Chatgpt gefragt, wie man die Formatierung verbessern kann und es geändert damit es besser aussieht. Ebenfalls bin ich fertig mit den Modulabgaben
 ### Feinplanung
-- [ ] Mit Claude verschiedene Prompts ausprobieren
-- [ ] Andere KI-Tools testen
+- [x] Mit Claude verschiedene Prompts ausprobieren
+- [x] Andere KI-Tools testen
 - [ ] YouTube-Videos über Roblox-Coding anschauen
-- [ ] Mit Claude ein kleines Spiel generieren lassen
-- [ ] LUA-Skripte anschauen und weiterlernen
+- [x] Mit Claude ein kleines Spiel generieren lassen
+- [x] LUA-Skripte anschauen und weiterlernen
 
 ### Checkmark-Test
 - [ ] Ungecheckt
