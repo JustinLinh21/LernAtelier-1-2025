@@ -14,8 +14,8 @@
 Heute habe ich SQL-Codes repetiert, wichtige Commands notiert und Lernvideos zur Theorie geschaut. Dadurch konnte ich mein Verständnis zu Datenbanken verbessern und Unsicherheiten klären. Zusätzlich habe ich kurz die Chemie-Lernziele angeschaut. Insgesamt habe ich konzentriert gearbeitet und meine Ziele erreicht.
 
 ### Feinplanung nächstes Mal
-- [ ] Module aufarbeiten
-- [ ] Schauen, was als Nächstes sinnvoll ist
+- [x] Module aufarbeiten
+- [x] Schauen, was als Nächstes sinnvoll ist
 
 ---
 
@@ -30,12 +30,12 @@ Heute habe ich SQL-Codes repetiert, wichtige Commands notiert und Lernvideos zur
 Ich habe im Modul 293 weitergearbeitet und gemerkt, dass ich langsam besser reinkomme. Mit Khan Academy konnte ich HTML und CSS üben, was mir die Basics klarer gemacht hat. Die YouTube-Videos zu Komponenten waren hilfreich, weil ich vieles visuell nachvollziehen konnte. Insgesamt bin ich durch die Mischung aus Üben, Videos und Theorie gut vorangekommen.
 
 ### Feinplanung nächstes Mal
-- [ ] Modul 293 weiter bearbeiten
-- [ ] Modul 293 und 122 voranbringen
-- [ ] SQL-Theorie repetieren
-- [ ] Komponenten besser verstehen & Beispiele anschauen
-- [ ] Spannende Informatik-Videos schauen
-- [ ] Französisch: Zahlen lernen
+- [x] Modul 293 weiter bearbeiten
+- [x] Modul 293 und 122 voranbringen
+- [x] SQL-Theorie repetieren
+- [x] Komponenten besser verstehen & Beispiele anschauen
+- [x] Spannende Informatik-Videos schauen
+- [x] Französisch: Zahlen lernen
 
 ---
 
@@ -57,8 +57,8 @@ Ich konnte mein Verständnis für Webseiten verbessern und wichtige SQL-Commands
 - 5.5
 
 ### Feinplanung für 12.06.2026
-- [ ] An den Projekten für Modul 293 und 122 weiterarbeiten
-- [ ] Fokus eher auf Modul 293, um dort schneller fertig zu werden
+- [x] An den Projekten für Modul 293 und 122 weiterarbeiten
+- [x] Fokus eher auf Modul 293, um dort schneller fertig zu werden
 
 ---
 
@@ -79,8 +79,8 @@ Ich konnte mein Verständnis für Webseiten verbessern und wichtige SQL-Commands
 Ich konnte bei beiden Projekten Fortschritte machen. Bei Modul 122 habe ich eine klare Struktur und erste Dokumentation erstellt. Bei Modul 293 habe ich das Mockup verbessert.
 
 ### Feinplanung nächstes Mal
-- [ ] Projekte idealerweise fertigstellen
-- [ ] Falls nicht möglich: so weit wie möglich vorankommen (noch 2 Wochen Zeit)
+- [x] Projekte idealerweise fertigstellen
+- [x] Falls nicht möglich: so weit wie möglich vorankommen (noch 2 Wochen Zeit)
 
 ---
 
@@ -93,12 +93,12 @@ Ich konnte bei beiden Projekten Fortschritte machen. Bei Modul 122 habe ich eine
 ### Reflexion
 Ich bin weit gekommen, arbeite am Wochenende weiter und bin Dienstag/Mittwoch mit beiden Projekten fertig.
 
-### Zusätzliche Arbeit
-Ich habe Copilot und Chatgpt gefragt, wie man die Formatierung verbessern kann und es geändert damit es besser aussieht.
 ---
 
 ## 26.06.2026
 
+### Info
+Ich habe Copilot und Chatgpt gefragt, wie man die Formatierung verbessern kann und es geändert damit es besser aussieht. Ebenfalls bin ich fertig mit den Modulabgaben
 ### Feinplanung
 - [ ] Mit Claude verschiedene Prompts ausprobieren
 - [ ] Andere KI-Tools testen
