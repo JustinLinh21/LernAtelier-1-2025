@@ -106,6 +106,9 @@ Ich habe Copilot und Chatgpt gefragt, wie man die Formatierung verbessern kann u
 - [x] Mit Claude ein kleines Spiel generieren lassen
 - [x] LUA-Skripte anschauen und weiterlernen
 
+### Reflexion
+Ich habe viel lernen können und mein powershell script nochmal durgeschaut und konnte es verstehen. Ich bin nicht dazu gekommen die Youtube videos anzuschauen. Claude funktioniert sehr gut um Games zu erstellen
+
 ### Checkmark-Test
 - [ ] Ungecheckt
 - [x] Gecheckt
