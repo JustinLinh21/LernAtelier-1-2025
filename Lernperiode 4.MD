@@ -66,3 +66,6 @@ Ich bin weit gekommen, arbeite am wochenende weiter und bin nächsten Dienstag/M
 
 ## Feinplanung 26.06.2026
 Ich will mit Claude verschiedene prompts probieren und andere KI benutzen um zu entdecken welche gute es gibt. Ich will ebenfalls Youtube Videos über Roblox coding anschauen und mit Claude paar sachen generieren wie ein kleines Spiel, den skript anschauen und weiter mit LUA lernen
+
+- [x] 
+- []
