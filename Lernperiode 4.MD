@@ -69,3 +69,7 @@ Ich will mit Claude verschiedene prompts probieren und andere KI benutzen um zu 
 
 - [x] 
 - []
+
+- [ ] ungecheckt
+- [x] gecheckt
+
