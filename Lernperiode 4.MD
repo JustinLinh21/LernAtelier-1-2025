@@ -29,7 +29,7 @@ Die YouTube‑Videos zu Komponenten waren hilfreich, weil ich vieles visuell nac
 Insgesamt bin ich durch die Mischung aus Üben, Videos und Theorie gut vorangekommen.
 
 Feinplanung nächstes Mal
-[ ] Modul 293 weiter bearbeiten
+- [x] Modul 293 weiter bearbeiten
 
 [ ] Modul 293 und 122 voranbringen
 
