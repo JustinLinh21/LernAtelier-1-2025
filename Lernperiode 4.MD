@@ -1,75 +1,118 @@
-## Feinplanung 8.5.26
+Feinplanung 08.05.2026
+[x] SQL‑Codes repetieren
 
--SQL Codes in SQL repetieren
--SQL commands aufschreiben
--Kurz die Chemie Lernziele anschauen
--SQL Lernvideos/ Theorie studieren
+[x] Wichtige SQL‑Commands aufschreiben
 
-## Reflexion
-Heute habe ich SQL-Codes repetiert, wichtige SQL-Commands aufgeschrieben und Lernvideos zur Theorie geschaut. Dadurch konnte ich mein Wissen zu Datenbanken verbessern und Unsicherheiten klären. Zusätzlich habe ich kurz die Chemie-Lernziele angeschaut. Insgesamt habe ich konzentriert gearbeitet und meine Ziele erreicht.
+[x] Chemie‑Lernziele kurz anschauen
 
+[x] SQL‑Lernvideos / Theorie studieren
 
-## Feinplanung nächstes mal
--Module aufarbeiten
--mal schauen
+Reflexion
+Heute habe ich SQL‑Codes repetiert, wichtige Commands notiert und Lernvideos zur Theorie geschaut. Dadurch konnte ich mein Verständnis zu Datenbanken verbessern und Unsicherheiten klären. Zusätzlich habe ich kurz die Chemie‑Lernziele angeschaut. Insgesamt habe ich konzentriert gearbeitet und meine Ziele erreicht.
 
+Feinplanung nächstes Mal
+[ ] Module aufarbeiten
 
-## 22.05.2026 Homeoffice
+[ ] Schauen, was als Nächstes sinnvoll ist
 
--Modul 293 weiter arbeiten
--Mit Khan academy Css und HTML lernen
--Youtube Videos zu Komponenten schauen
+22.05.2026 – Homeoffice
+[x] Modul 293 weiterbearbeiten
 
-## Reflexion 22.05.2026
+[x] Mit Khan Academy HTML & CSS lernen
 
-Ich habe diese Woche im Modul 293 weitergearbeitet und gemerkt, dass ich langsam besser reinkomme.
-Mit Khan Academy habe ich HTML und CSS geübt, was mir geholfen hat, die Basics klarer zu verstehen.
-Die YouTube‑Videos zu Komponenten waren auch nützlich, weil ich dort vieles visuell nachvollziehen konnte.
-Insgesamt hatte ich das Gefühl, dass ich durch die Mischung aus Üben, Videos und Theorie gut vorankomme.
+[x] YouTube‑Videos zu Komponenten schauen
 
-## Feinplanung nächstes Mal
+Reflexion 22.05.2026
+Ich habe im Modul 293 weitergearbeitet und gemerkt, dass ich langsam besser reinkomme.
+Mit Khan Academy konnte ich HTML und CSS üben, was mir die Basics klarer gemacht hat.
+Die YouTube‑Videos zu Komponenten waren hilfreich, weil ich vieles visuell nachvollziehen konnte.
+Insgesamt bin ich durch die Mischung aus Üben, Videos und Theorie gut vorangekommen.
 
-Modul 293 weiter bearbeiten
-modul 293 und 122
-SQL-Theorie repetieren
-Komponenten besser verstehen und Beispiele anschauen
-Spannende Informatik Videos
-Französisch zahlen lernen
+Feinplanung nächstes Mal
+[ ] Modul 293 weiter bearbeiten
 
+[ ] Modul 293 und 122 voranbringen
 
-## Reflexion 29.05
-Heute habe ich weiter am Modul 293 gearbeitet und zusätzlich HTML und CSS geübt. Dabei konnte ich mein Verständnis für den Aufbau von Webseiten verbessern. Auch die Wiederholung der SQL-Theorie hat geholfen, wichtige Commands besser zu merken. Die  Tech Videos waren hilfreich und spannend, sie waren über Peripherien die hilfreich sind. Für Französisch hab ich mich ein wenig für das Hörverstehen vorbereitet. Insgesamt habe ich konzentriert gearbeitet und gute Fortschritte gemacht.
+[ ] SQL‑Theorie repetieren
 
-## Noten Informatik
-4.5 , 5 , 5.5
+[ ] Komponenten besser verstehen & Beispiele anschauen
 
-## Feinplanung nächstes mal für 12.06.2026
-Für das Modul 293 und 122 bei den projekten arbeiten eventuell mit 293 mehr und eher fertig werden
+[ ] Spannende Informatik‑Videos schauen
 
-## Noten Informatik
-4.5 , 5 , 5.5 , 5.5
+[ ] Französisch: Zahlen lernen
 
-## Reflexion
-Für die Projekte konnte ich bei beiden unterschiedlich anfangen ich habe mehr mit 122 gearbeitet da ich da noch hinterdrin war und konnte schon eine struktur für das Dokument und eine kleine Entwickler/Testdokumentation erstellen. Bei 293 habe ich nur das mockup für die website verbessert mit drawio.
+Reflexion 29.05.2026
+[x] Weiter an Modul 293 gearbeitet
 
-## Feinplanung nächstes mal
-Mit den projekten idealerweise fertig werden wenn sie nicht schon bei den anderen Tagen fertig ist oder einfach so weit kommen wie möglich da ich noch 2 wochen zeit habe.
+[x] HTML & CSS geübt
 
-## Feinplanung 19.06.2026
+[x] SQL‑Theorie wiederholt
 
-Ich arbeite an meiner webseite weiter also das projekt LB für modul 293.
+[x] Tech‑Videos über Peripheriegeräte geschaut
 
-Nach der Halbzeit arbeite ich auch an Modul 122 für mein LB weiter und schaue wie weit ich kommen.
+[x] Französisch Hörverstehen vorbereitet
 
-## Reflexion 19.06.2026
-Ich bin weit gekommen, arbeite am wochenende weiter und bin nächsten Dienstag/Mittwoch fertig mit den projekten
+Reflexion
+Ich konnte mein Verständnis für Webseiten verbessern und wichtige SQL‑Commands festigen.
+Die Tech‑Videos waren spannend und hilfreich.
+Insgesamt habe ich konzentriert gearbeitet und gute Fortschritte gemacht.
 
-## Feinplanung 26.06.2026
-Ich will mit Claude verschiedene prompts probieren und andere KI benutzen um zu entdecken welche gute es gibt. Ich will ebenfalls Youtube Videos über Roblox coding anschauen und mit Claude paar sachen generieren wie ein kleines Spiel, den skript anschauen und weiter mit LUA lernen
+Noten Informatik
+4.5
 
-- [x] 
-- []
+5
 
-- [ ] ungecheckt
-- [x] gecheckt
+5.5
 
+Feinplanung für 12.06.2026
+[ ] An den Projekten für Modul 293 und 122 weiterarbeiten
+
+[ ] Fokus eher auf 293, um dort schneller fertig zu werden
+
+Noten Informatik (aktualisiert)
+4.5
+
+5
+
+5.5
+
+5.5
+
+Reflexion
+[x] An beiden Projekten gearbeitet
+
+[x] Bei Modul 122 Struktur + kleine Entwickler/Testdokumentation erstellt
+
+[x] Bei Modul 293 Mockup in draw.io verbessert
+
+Reflexion
+Ich konnte bei beiden Projekten Fortschritte machen. Bei Modul 122 habe ich eine klare Struktur und erste Dokumentation erstellt. Bei Modul 293 habe ich das Mockup verbessert.
+
+Feinplanung nächstes Mal
+[ ] Projekte idealerweise fertigstellen
+
+[ ] Falls nicht möglich: so weit wie möglich vorankommen (noch 2 Wochen Zeit)
+
+Feinplanung 19.06.2026
+[x] Weiter an der Webseite (LB Modul 293) arbeiten
+
+[x] Nach der Halbzeit an Modul 122 weiterarbeiten
+
+Reflexion 19.06.2026
+Ich bin weit gekommen, arbeite am Wochenende weiter und bin Dienstag/Mittwoch mit beiden Projekten fertig.
+
+Feinplanung 26.06.2026
+[ ] Mit Claude verschiedene Prompts ausprobieren
+
+[ ] Andere KI‑Tools testen
+
+[ ] YouTube‑Videos über Roblox‑Coding anschauen
+
+[ ] Mit Claude ein kleines Spiel generieren lassen
+
+[ ] LUA‑Skripte anschauen und weiterlernen
+
+Checkmark‑Test
+[ ] ungecheckt
+
+[x] gecheckt
