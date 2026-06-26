@@ -29,7 +29,7 @@ Die YouTube‑Videos zu Komponenten waren hilfreich, weil ich vieles visuell nac
 Insgesamt bin ich durch die Mischung aus Üben, Videos und Theorie gut vorangekommen.
 
 Feinplanung nächstes Mal
-- [x] Modul 293 weiter bearbeiten
+[ ] Modul 293 weiter bearbeiten
 
 [ ] Modul 293 und 122 voranbringen
 
@@ -100,6 +100,9 @@ Feinplanung 19.06.2026
 
 Reflexion 19.06.2026
 Ich bin weit gekommen, arbeite am Wochenende weiter und bin Dienstag/Mittwoch mit beiden Projekten fertig.
+
+## Kurze Formatierung änderung
+Ich habe copilot gefragt wie man das besser formatiert und anschliessend alles ersetzt
 
 Feinplanung 26.06.2026
 [ ] Mit Claude verschiedene Prompts ausprobieren
